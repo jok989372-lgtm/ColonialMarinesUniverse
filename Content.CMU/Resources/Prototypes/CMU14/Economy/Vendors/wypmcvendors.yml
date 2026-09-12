@@ -48,7 +48,9 @@
       entries:
       - id: AU14WYPMCHelmet
         amount: 40
-      - id: AU14HelmetGarbRiotVisor
+      - id: CMUHelmetGarbPlatemask
+        amount: 40
+      - id: CMUHelmetGarbGoggles
         amount: 40
       - id: AU14WYPMCBallCap
         amount: 20
